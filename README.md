@@ -1,2 +1,2 @@
-# Guide
-Soon to be guide at https://zira.pw/guide
+# Guide for Zira
+https://zira.pw/guide
