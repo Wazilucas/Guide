@@ -16,7 +16,7 @@ Setup the channel to send messages to.
 
 >![Example](https://stuff.zira.pw/files/1527372447075.png)
 
-To stop logging to `z/leave channel stop`
+To stop logging do `z/leave channel stop`
 
 >![Stop](https://stuff.zira.pw/files/1527371638468.png)
 

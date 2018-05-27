@@ -14,6 +14,6 @@ Log when users react or unreact on setup messages.
 
 >![Example](https://stuff.zira.pw/files/1527371217640.png)
 
-To stop logging to `z/log stop`
+To stop logging do `z/log stop`
 
 >![Stop](https://stuff.zira.pw/files/1527371260353.png)
