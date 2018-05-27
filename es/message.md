@@ -1,24 +1,24 @@
-# Setting up a Message
+# Estableciendo un mensaje
 
-Zira will need the following permission `Send Messages` if you want Zira to send a message for you.
+Zira necesitará el permiso `Enviar Mensajes` si quieres que Zira envía el mensaje por ti.
 
-### Command Usage
+### Uso del comando
 
-z/message [Message ID](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) or z/message Message
+z/message [ID del mensaje](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) o z/message Mensaje
 
-### Description
+### Descripción
 
-Set the message(s) that users will be able to react on.
+Establece (o envía) el mensaje al que los usuarios podrán reaccionar.
 
-#### Existing Message Example
+#### Ejemplo con un mensaje ya existente
 >![ID Example](https://stuff.zira.pw/files/1527364123184.png)
 
-#### New Message Example
+#### Ejemplo con un nuevo mensaje
 >![Message Example](https://stuff.zira.pw/files/1527364295209.png)
 
 >![Set](https://stuff.zira.pw/files/1527364327101.png)
 
-Congratulations you've successfully setup a message with Zira. The next step is adding roles. You have 3 choices:
-1. [z/add - *Allows for multiple roles from a message*](/guide/add)
-2. [z/toggle - *Allows only one role from a message*](/guide/toggle)
-3. [z/once - *Allows a role to be claimed only once*](/guide/once)
+Felicidades, has establecido un mensaje con Zira. El siguiente paso es añadir roles. Tienes 3 opciones:
+1. [z/add - *Permite múltiples roles por mensaje*](/guide/add)
+2. [z/toggle - *Permite solo un rol por mensaje*](/guide/toggle)
+3. [z/once - *Permite que un rol solo pueda ser reclamado una vez*](/guide/once)

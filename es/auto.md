@@ -1,59 +1,59 @@
-# Setting up Autorole
+# Configurando los roles automáticos
 
-Zira will need the following permissions `Manage Roles` to be able to give roles.
+Zira necesitará el permiso `Admministrar Roles` para poder dar roles.
 
-## User Role
+## Rol de usuario
 
-### Command Usage
+### Uso del comando
 
-z/autorole user @Role or z/autorole user Role
+z/autorole user @Rol o z/autorole user Rol
 
-### Description
+### Descripción
 
-Sets the role(s) to be given when a user joins the guild.
+Configura un rol (o roles) para ser otorgados a los nuevos usuarios del servidor.
 
-#### Mention Example
+#### Ejemplo con mención
 
->![Mention Example](https://stuff.zira.pw/files/1527369937831.png)
+>![Ejemplo con mención](https://stuff.zira.pw/files/1527369937831.png)
 
-#### Name Example
+#### Ejemplo con nombre
 
->![Name Example](https://stuff.zira.pw/files/1527369965927.png)
+>![Ejemplo con nombre](https://stuff.zira.pw/files/1527369965927.png)
 
-You can remove a role from being given by doing the command again.
+Puedes remover un rol para que no sea otorgado usando el comando de nuevo.
 
->![Remove](https://stuff.zira.pw/files/1527369996156.png)
+>![Remover](https://stuff.zira.pw/files/1527369996156.png)
 
-## Bot Role
+## Rol de bot
 
-### Command Usage
+### Uso del comando
 
 z/autorole bot @Role or z/autorole bot Role
 
-### Description
+### Descripción
 
-Sets the role(s) to be given when a bot joins the guild.
+Configura un rol (o roles) para ser otorgados cuando un bot sea invitado al servidor.
 
-#### Mention Example
+#### Ejemplo con mención
 
->![Mention Example](https://stuff.zira.pw/files/1527370049010.png)
+>![Ejemplo con mención](https://stuff.zira.pw/files/1527370049010.png)
 
-#### Name Example
+#### Ejemplo con nombre
 
->![Name Example](https://stuff.zira.pw/files/1527370062109.png)
+>![Ejemplo con nombre](https://stuff.zira.pw/files/1527370062109.png)
 
-You can remove a role from being given by doing the command again.
+Puedes remover un rol para que no sea otorgado usando el comando de nuevo.
 
->![Remove](https://stuff.zira.pw/files/1527370074196.png)
+>![Remover](https://stuff.zira.pw/files/1527370074196.png)
 
-## Show
+## Ver la lista de roles
 
-### Command Usage
+### Uso del comando
 
 z/autorole show
 
-### Description
+### Descripción
 
-Show the roles set to be given.
+Muestra los roles configurados para ser otorgados.
 
-Congratulations you've successfully setup auto roles with Zira.
+Felicidades, has configurado los roles automáticos con Zira.

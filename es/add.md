@@ -1,19 +1,19 @@
-# Adding Normal Roles
+# Añadiendo roles normales
 
-Zira will need the following permission `Add Reaction` for the reaction to appear on the message.
+Zira necesitará el permiso `Añadir Reacciones` para que la reacción aparezca en el mensaje.
 
-### Command Usage
+### Uso del comando
 
-z/add Emoji @Role or z/add Emoji Role
+z/add Emoji @Rol o z/add Emoji Rol
 
-### Description
+### Descripción
 
-Add a normal role to the message you've set. Allows the user to have any amount of roles from a message. This is useful for notification roles, platform roles, etc.
+Añade un rol normal al mensaje que configuraste. Permite al usuario tener cualquier cantidad de roles de los configurados en un mensaje. Esto es útil para roles de notificación, de plataforma, etc.
 
-#### Mention Example
->![Mention Example](https://stuff.zira.pw/files/1527364974123.png)
+#### Ejemplo con mención
+>![Ejemplo con mención](https://stuff.zira.pw/files/1527364974123.png)
 
-#### Name Example
->![Name Example](https://stuff.zira.pw/files/1527365008969.png)
+#### Ejemplo con nombre
+>![Ejemplo con nombre](https://stuff.zira.pw/files/1527365008969.png)
 
-Congratulations you've successfully added a role with Zira. You can repeat this as many times as you'd like but be aware that Discord only allows a max of 20 reactions per message so if you plan on adding more than 20 roles you'll have to split your messages up.
+Felicidades, has añadido un rol con Zira. Puedes repetir esto tantas veces como quieras pero ten en cuenta que Discord solo permite un máximo de 20 reacciones por mensaje así que si planeas añadir más de 20 roles tendrás que separarlos en varios mensajes.

@@ -1,41 +1,41 @@
-# Setting up Leave messages
+# Configurando el mensaje de despedida
 
-Zira will need the following permissions `Send Messages` for the channel you want to send messages to.
+Zira necesitará el permiso `Enviar Mensajes` en el canal donde quieras enviar el mensaje.
 
-## Channel
+## Canal
 
-### Command Usage
+### Uso del comando
 
-z/leave channel #channel
+z/leave channel #canal
 
-### Description
+### Descripción
 
-Setup the channel to send messages to.
+Establece el canal donde se enviarán los mensajes.
 
-#### Example
+#### Ejemplo
 
->![Example](https://stuff.zira.pw/files/1527372447075.png)
+>![Ejemplo](https://stuff.zira.pw/files/1527372447075.png)
 
-To stop logging to `z/leave channel stop`
+Para dejar de enviar los mensajes usa `z/leave channel stop`
 
 >![Stop](https://stuff.zira.pw/files/1527371638468.png)
 
-## Message
+## Mensaje
 
-### Command Usage
+### Uso del comando
 
-z/leave message Message
+z/leave message Mensaje
 
-Placeholders that you can use in the message:
-* $user - username
-* $mention - user mention
-* $guild - guild name
-* $membercount - new member count
+Variables que puedes usar en el mensaje:
+* $user - nombre de usuario
+* $mention - mención al usuario
+* $guild - nombre del servidor
+* $membercount - cantidad de miembros
 
-### Description
+### Descripción
 
-Message to send when a user leaves.
+Establece el mensaje a enviar cuando un usuario se va.
 
-#### Example
+#### Ejemplo
 
 >![Message](https://stuff.zira.pw/files/1527371657948.png)

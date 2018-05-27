@@ -1,17 +1,17 @@
-# Setting up a Channel
+# Estableciendo un canal
 
-Zira will need the following permissions `Read Messages` and `Read Message History` for the channel you want to set.
+Zira necesitará los permisos `Leer Mensajes` y `Leer el Historial de Mensajes` en el canal que quieras establecer.
 
-### Command Usage
+### Uso del comando
 
-z/channel #channel
+z/channel #canal
 
-### Description
+### Descripción
 
-Sets up a channel for reaction roles.
+Establece un canal para los roles y reacciones.
 
-#### Example
+#### Ejemplo
 
->![Channel Example](https://stuff.zira.pw/files/1527363615884.png)
+>![Ejemplo de canal](https://stuff.zira.pw/files/1527363615884.png)
 
-Congratulations you've successfully setup a channel with Zira. The next step is [setting a message](/guide/message).
+Felicidades, has establecido un canal para Zira. El siguiente paso es [establecer un mensaje](/guide/message).

@@ -1,41 +1,41 @@
-# Setting up Join messages
+# Configurando el mensaje de bienvenida
 
-Zira will need the following permissions `Send Messages` for the channel you want to send messages to.
+Zira necesitará el permiso `Enviar Mensajes` en el canal donde quieras enviar el mensaje.
 
-## Channel
+## Canal
 
-### Command Usage
+### Uso del comando
 
-z/join channel #channel
+z/join channel #canal
 
-### Description
+### Descripción
 
-Setup the channel to send messages to.
+Establece el canal donde se enviarán los mensajes.
 
-#### Example
+#### Ejemplo
 
->![Example](https://stuff.zira.pw/files/1527371353188.png)
+>![Ejemplo](https://stuff.zira.pw/files/1527371353188.png)
 
-To stop logging to `z/join channel stop`
+Para dejar de enviar los mensajes usa `z/join channel stop`
 
 >![Stop](https://stuff.zira.pw/files/1527371363985.png)
 
-## Message
+## Mensaje
 
-### Command Usage
+### Uso del comando
 
-z/join message Message
+z/join message Mensaje
 
-Placeholders that you can use in the message:
-* $user - username
-* $mention - user mention
-* $guild - guild name
-* $membercount - new member count
+Variables que puedes usar en el mensaje:
+* $user - nombre de usuario
+* $mention - mención al usuario
+* $guild - nombre del servidor
+* $membercount - cantidad de miembros
 
-### Description
+### Descripción
 
-Message to send when a user joins.
+Establece el mensaje a enviar cuando un usuario se une.
 
-#### Example
+#### Ejemplo
 
->![Message](https://stuff.zira.pw/files/1527371566321.png)
+>![Mensaje](https://stuff.zira.pw/files/1527371566321.png)

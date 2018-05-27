@@ -1,19 +1,19 @@
-# Adding Toggled Roles
+# Añadiendo roles alternables
 
-Zira will need the following permission `Add Reaction` for the reaction to appear on the message.
+Zira necesitará el permiso `Add Reaction` para que la reacción aparezca en el mensaje.
 
-### Command Usage
+### Uso del comando
 
-z/toggle Emoji @Role or z/toggle Emoji Role
+z/toggle Emoji @Rol o z/toggle Emoji Rol
 
-### Description
+### Descripción
 
-Add a toggled role to the message you've set. Allows the user to only have one toggled role per message. This is useful for color roles, etc.
+Añade un rol alternable al mensaje que hayas establecido. Permite al usuario tener solo un rol alternable por mensaje. Esto es útil para roles de colores, etc.
 
-#### Mention Example
+#### Ejemplo con una mención
 >![Mention Example](https://stuff.zira.pw/files/1527365390492.png)
 
-#### Name Example
+#### Ejemplo con un nombre
 >![Name Example](https://stuff.zira.pw/files/1527365424874.png)
 
-Congratulations you've successfully added a role with Zira. You can only have 9 toggled roles setup. [Donors](/donate) get up to 18 toggled roles.
+Felicidades, has añadido un rol exitosamente con Zira. Solo puedes tener 9 roles alternables configurados. Los [donantes](/donate) pueden tener hasta 18 roles alternables.

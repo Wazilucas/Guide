@@ -1,69 +1,69 @@
-# Setting up Suggestions
+# Configurando las sugerencias
 
-## Setting the Channel
+## Estableciendo el canal
 
-### Command Usage
+### Uso del comando
 
-z/suggestion #channel
+z/suggestion #canal
 
-Or if you are a [donor](/donate) and want people to submit in a certain channel only z/suggestion #channel #submit-Channel
+O z/suggestion #canal #canal-de-envíos si eres un [donante](/donate) y quieres que la gente envíe sugerencias solo en un canal específico
 
-### Description
+### Descripción
 
-Set the channel that suggestions will be sent to
+Establece el canal a donde se enviarán las sugerencias
 
-#### Example
+#### Ejemplo
 
 >![Example](https://stuff.zira.pw/files/1527370583792.png)
 
-#### Donor Example
+#### Ejemplo para donantes
 
 >![Example](https://stuff.zira.pw/files/1527370614940.png)
 
-You can disable suggestions by doing `z/suggestion stop`
+Puedes desactivar las sugerencias usando `z/suggestion stop`
 
 >![Stop](https://stuff.zira.pw/files/1527370675187.png)
 
-## Submit
+## Comando submit
 
-### Command Usage
+### Uso del comando
 
-z/submit message
+z/submit mensaje
 
-### Description
+### Descripción
 
-Submit a suggestion.
+Envía una sugerencia.
 
-#### Example
+#### Ejemplo
 
 >![Example](https://stuff.zira.pw/files/1527370912452.png)
 
-## Approve
+## Comando approve
 
-### Command Usage
+### Uso del comando
 
-z/approve [Message ID](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) or z/approve [Message ID](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) Reason
+z/approve [ID del mensaje](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) o z/approve [ID del mensaje](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) razón
 
-### Description
+### Descripción
 
-Approve a suggestion.
+Aprueba una sugerencia.
 
-## Deny
+## Comando Deny
 
-### Command Usage
+### Uso del comando
 
-z/deny [Message ID](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) or z/deny [Message ID](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) Reason
+z/deny [ID del mensaje](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) o z/deny [ID del mensaje](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) razón
 
-### Description
+### Descripción
 
-Deny a suggestion.
+Rechaza una sugerencia.
 
-## Maybe
+## Comando Maybe
 
-### Command Usage
+### Uso del comando
 
-z/maybe [Message ID](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) or z/maybe [Message ID](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) Reason
+z/maybe [ID del mensaje](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) o z/maybe [ID del mensaje](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) razón
 
-### Description
+### Descripción
 
-Potentially approve a suggestion.
+Establece una sugerencia como posible.

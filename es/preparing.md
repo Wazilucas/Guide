@@ -1,13 +1,13 @@
-# Preparing Zira
+# Preparando a Zira
 
-**You will need the `Manage Server` permission to invite Zira**
+**Necesitarás el permiso `Administrar Servidor` para invitar a Zira**
 
-Invite Zira with this [link](https://zira.pw/invite). Make sure you give all the permissions on the invite link for Zira to work properly.
+Invita a Zira con este [enlace](https://zira.pw/invite). Asegúrate de darle todos los permisos en el enlace de invitación para que Zira funcione apropiadamente.
 
->![Invite](https://stuff.zira.pw/files/1527362807490.png)
+>![Invitación](https://stuff.zira.pw/files/1527362807490.png)
 
-Once Zira is invited. Make sure to move the `Zira` role above all the other roles you plan on assigning.
+Una vez que Zira es invitada. Asegúrate de mover el rol `Zira` arriba de todos los roles que planeas asignar.
 
->![Move Zira](https://stuff.zira.pw/files/1527362963574.png)
+>![Mueve a Zira](https://stuff.zira.pw/files/1527362963574.png)
 
-That's it for preparing Zira. The next step is [setting a channel](/guide/channel).
+Eso es todo, lo siguiente es [establecer un canal](/guide/channel).
