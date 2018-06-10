@@ -16,4 +16,4 @@ Add a toggled role to the message you've set. Allows the user to only have one t
 #### Name Example
 >![Name Example](https://stuff.zira.pw/files/1527365424874.png)
 
-Congratulations you've successfully added a role with Zira. You can only have 9 toggled roles setup. [Donors](/donate) get up to 18 toggled roles.
+Congratulations you've successfully added a role with Zira. You can only have 12 toggled roles setup. [Donors](/donate) get unlimited toggled roles.
