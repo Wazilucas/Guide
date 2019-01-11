@@ -2,7 +2,7 @@
 
 ### Uso del comando
 
-z/remove [ID del mensaje](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) @Rol o z/remove [ID del mensaje](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) Rol
+z/delete [ID del mensaje](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) @Rol o z/delete [ID del mensaje](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) Rol
 
 *También puedes conseguir el ID del mensaje con z/list*
 
