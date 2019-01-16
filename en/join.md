@@ -1,30 +1,32 @@
-# Setting up Join messages
+# Setting Up Join messages
 
-Zira will need the following permissions `Send Messages` for the channel you want to send messages to.
+Before we start, Zira will need the `Send Messages` permission for the channel you want to send messages to.
 
 ## Channel
 
 ### Command Usage
 
-z/join channel #channel
+```z/join channel #channel or Channel ID```
 
 ### Description
 
-Setup the channel to send messages to.
+Setup the channel to send the join messages to.
 
 #### Example
 
->![Example](https://stuff.zira.pw/files/1527371353188.png)
+>![Example](http://i.imjake.me/files/ifkr6.png)
 
-To stop logging do `z/join channel stop`
+To stop the join messages, do:
 
->![Stop](https://stuff.zira.pw/files/1527371363985.png)
+```z/join channel disable```
+
+>![Stop](http://i.imjake.me/files/di4iq.png)
 
 ## Message
 
 ### Command Usage
 
-z/join message Message
+```z/join add Message```
 
 Placeholders that you can use in the message:
 * $user - username
@@ -34,8 +36,28 @@ Placeholders that you can use in the message:
 
 ### Description
 
-Message to send when a user joins.
+This will add a new message to the list of messages when someone joins. If you only add one, it will be that one every time. If you add more than one it will randomly pick from the list you create. Just run the command more than once to add more.
 
 #### Example
 
->![Message](https://stuff.zira.pw/files/1527371566321.png)
+>![Message](http://i.imjake.me/files/ceh2s.png)
+
+## Remove Message
+
+### Command Usage
+
+```z/join remove```
+
+***Then Do***
+
+```z/join remove ID```
+
+### Description
+
+The first command will list all of your current join messages, and then use the second command to delete specific join messages.
+
+#### Example
+
+>![Message](http://i.imjake.me/files/ceh2s.png)
+
+Congratulations! You've set up join messages with Zira!

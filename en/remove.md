@@ -1,19 +1,24 @@
 # Removing Roles
 
+***NOTE***: Before we continue this is NOT the command to remove a reaction role from a message that you've setup previously, this command allows you to setup a reaction role to remove another role. (Example: I have a system in my personal server where when a user is "soft muted", they get kicked into only one channel where they can read the rules again, and if they click a reaction, it will unmute them. This is what this would do.)
+
 ### Command Usage
 
-z/delete [Message ID](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) @Role or z/delete [Message ID](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) Role
+```z/remove Emoji @Role```
 
-*You can also get the message ID from z/list*
+***Or*** 
+
+```z/remove Emoji Role```
+
 
 ### Description
 
-Remove a role setup by Zira.
+Setup a reaction role that will remove a role from a user. You can view more info on why you would need this at the top of this page.
 
 #### Mention Example
->![Mention Example](https://stuff.zira.pw/files/1527365887697.png)
+>![Mention Example](http://i.imjake.me/files/xhfq2.png)
 
 #### Name Example
->![Name Example](https://stuff.zira.pw/files/1527365899040.png)
+>![Name Example](http://i.imjake.me/files/0fzbq.png)
 
-Congratulations you've successfully removed a role.
+Congratulations! You've successfully added a reaction to remove a role from a user. If you are looking for the command to delete a previously setup reaction role, you can find it [here](delete.md)

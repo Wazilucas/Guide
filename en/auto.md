@@ -1,50 +1,54 @@
-# Setting up Autorole
+# Setting Up Autorole
 
-Zira will need the following permissions `Manage Roles` to be able to give roles.
+Before we start, Zira will need the permission `Manage Roles` to be able to give roles.
 
 ## User Role
 
 ### Command Usage
 
-z/autorole user @Role or z/autorole user Role
+```z/autorole user @Role```
+***Or***
+```z/autorole user Role```
 
 ### Description
 
-Sets the role(s) to be given when a user joins the guild.
+Sets the role that will be given when a user joins the guild, no need to react.
 
 #### Mention Example
 
->![Mention Example](https://stuff.zira.pw/files/1527369937831.png)
+>![Mention Example](http://i.imjake.me/files/cy7j6.png)
 
 #### Name Example
 
->![Name Example](https://stuff.zira.pw/files/1527369965927.png)
+>![Name Example](http://i.imjake.me/files/tu064.png)
 
 You can remove a role from being given by doing the command again.
 
->![Remove](https://stuff.zira.pw/files/1527369996156.png)
+>![Remove](http://i.imjake.me/files/3mej5.png)
 
 ## Bot Role
 
 ### Command Usage
 
-z/autorole bot @Role or z/autorole bot Role
+```z/autorole bot @Role```
+***Or***
+```z/autorole bot Role```
 
 ### Description
 
-Sets the role(s) to be given when a bot joins the guild.
+Sets the role that will be given when a bot joins the guild. This role must also be below Zira's role to be given. It will not be given if it's on the same tier.
 
 #### Mention Example
 
->![Mention Example](https://stuff.zira.pw/files/1527370049010.png)
+>![Mention Example](http://i.imjake.me/files/3d524.png)
 
 #### Name Example
 
 >![Name Example](https://stuff.zira.pw/files/1527370062109.png)
 
-You can remove a role from being given by doing the command again.
+You can remove a role from being given to bots by doing the command again.
 
->![Remove](https://stuff.zira.pw/files/1527370074196.png)
+>![Remove](http://i.imjake.me/files/bqewg.png)
 
 ## Show
 
@@ -54,6 +58,6 @@ z/autorole show
 
 ### Description
 
-Show the roles set to be given.
+Shows the roles you've previous set to be automatically given to users and bots.
 
-Congratulations you've successfully setup auto roles with Zira.
+Congratulations! You've successfully setup auto roles with Zira.

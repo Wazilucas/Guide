@@ -1,19 +1,21 @@
-# Setting up Logging
+# Setting Up Logging
 
-Zira will need the following permissions `Send Messages` for the channel you want to log to.
+Before we start, Zira will need the `Send Messages` permission for the channel you want to log to.
 
 ### Command Usage
 
-z/log #channel
+```z/log #channel```
 
 ### Description
 
-Log when users react or unreact on setup messages.
+Log when users react or unreact on the messages you've setup with Zira.
 
 #### Example
 
->![Example](https://stuff.zira.pw/files/1527371217640.png)
+>![Example](http://i.imjake.me/files/iaw47.png)
 
-To stop logging do `z/log stop`
+To stop logging do:
 
->![Stop](https://stuff.zira.pw/files/1527371260353.png)
+```z/log disable```
+
+>![Stop](http://i.imjake.me/files/i35nz.png)
