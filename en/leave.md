@@ -1,32 +1,32 @@
 # Setting Up Leave Messages
 
-Before we start, Zira will need the `Send Messages` permission for the channel you want to send messages to.
+!!! tip
+    Before we start, Zira will need the `Send Messages` permission for the channel you want to send messages to.
 
 ## Channel
 
-### Command Usage
-
-```z/leave channel #channel or Channel ID```
+!!! example "Command Usage"
+    z/leave channel #channel or Channel ID
 
 ### Description
 
 Setup the channel to send the leave messages to.
 
-#### Example
-
->![Example](http://i.imjake.me/files/a4omo.png)
+!!! abstract "Example"
+    ![Example](http://i.imjake.me/files/a4omo.png)
 
 To stop the leave messages, do:
 
-```z/leave channel disable```
+!!! example "Command Usage"
+    z/leave channel disable
 
->![Stop](http://i.imjake.me/files/kckog.png)
+!!! abstract "Stop"
+    ![Stop](http://i.imjake.me/files/kckog.png)
 
 ## Message
 
-### Command Usage
-
-```z/leave add Message```
+!!! example "Command Usage"
+    z/leave add Message
 
 Placeholders that you can use in the message:
 * $user - username
@@ -39,24 +39,25 @@ This will add a new message to the list of messages when someone leaves. If you 
 
 #### Example
 
->![Message](http://i.imjake.me/files/ceh2s.png)
+!!! abstract "Example"
+    ![Message](http://i.imjake.me/files/ceh2s.png)
 
 ## Remove Message
 
-### Command Usage
-
-```z/leave remove```
+!!! example "Command Usage"
+    z/leave remove
 
 ***Then Do***
 
-```z/leave remove ID```
+!!! example "Command Usage"
+    z/leave remove ID
 
 ### Description
 
 The first command will list all of your current leave messages, and then use the second command to delete specific leave messages.
 
-#### Example
+!!! abstract "Example"
+    ![Message](http://i.imjake.me/files/ceh2s.png)
 
->![Message](http://i.imjake.me/files/ceh2s.png)
-
-Congratulations! You've setup leave messages with Zira!
+!!! success "Congratulations!"
+    You've setup leave messages with Zira!

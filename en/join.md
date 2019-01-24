@@ -1,32 +1,32 @@
 # Setting Up Join messages
 
-Before we start, Zira will need the `Send Messages` permission for the channel you want to send messages to.
+!!! tip
+    Before we start, Zira will need the `Send Messages` permission for the channel you want to send messages to.
 
 ## Channel
 
-### Command Usage
-
-```z/join channel #channel or Channel ID```
+!!! example "Command Usage"
+    z/join channel #channel or Channel ID
 
 ### Description
 
 Setup the channel to send the join messages to.
 
-#### Example
-
->![Example](http://i.imjake.me/files/ifkr6.png)
+!!! abstract "Example"
+    ![Example](http://i.imjake.me/files/ifkr6.png)
 
 To stop the join messages, do:
 
-```z/join channel disable```
+!!! example "Command Usage"
+    z/join channel disable
 
->![Stop](http://i.imjake.me/files/di4iq.png)
+!!! abstract "Disable"
+    ![Disable](http://i.imjake.me/files/di4iq.png)
 
 ## Message
 
-### Command Usage
-
-```z/join add Message```
+!!! example "Command Usage"
+    z/join add Message
 
 Placeholders that you can use in the message:
 * $user - username
@@ -38,26 +38,25 @@ Placeholders that you can use in the message:
 
 This will add a new message to the list of messages when someone joins. If you only add one, it will be that one every time. If you add more than one it will randomly pick from the list you create. Just run the command more than once to add more.
 
-#### Example
-
->![Message](http://i.imjake.me/files/ceh2s.png)
+!!! abstract "Message"
+    ![Message](http://i.imjake.me/files/ceh2s.png)
 
 ## Remove Message
 
-### Command Usage
-
-```z/join remove```
+!!! example "Command Usage"
+    z/join remove
 
 ***Then Do***
 
-```z/join remove ID```
+!!! example "Command Usage"
+    z/join remove ID
 
 ### Description
 
 The first command will list all of your current join messages, and then use the second command to delete specific join messages.
 
-#### Example
+!!! abstract "Message"
+    ![Message](http://i.imjake.me/files/ceh2s.png)
 
->![Message](http://i.imjake.me/files/ceh2s.png)
-
-Congratulations! You've set up join messages with Zira!
+!!! success "Congratulations!"
+    You've set up join messages with Zira!
