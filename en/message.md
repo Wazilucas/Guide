@@ -5,7 +5,8 @@
 
 !!! example "Command Usage"
     z/message [Message ID]
-    if you would like to use your own message. 
+
+if you would like to use your own message. 
 
 !!! question
     You can learn how to get a message ID [here](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
@@ -14,7 +15,8 @@
  
  !!! example "Command Usage"
      z/message Message You Want Here
-     if you would like Zira to send the message.
+     
+if you would like Zira to send the message.
 
 ### Description
 
