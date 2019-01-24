@@ -4,12 +4,12 @@ Before we start, Zira will need the `Add Reaction` permission for the reaction t
 
 ### Command Usage
 !!! example
-z/add Emoji @Role
+    z/add Emoji @Role
 
 ***Or*** 
 
 !!! example
-z/add Emoji Role Name
+    z/add Emoji Role Name
 
 ### Description
 
