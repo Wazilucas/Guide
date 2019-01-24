@@ -5,7 +5,6 @@
 
 !!! example "Command Usage"
     z/message [Message ID]
-
     if you would like to use your own message. 
 
 !!! question
