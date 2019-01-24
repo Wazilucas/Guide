@@ -13,7 +13,7 @@ if you would like to use your own message.
  
 ***Or***
  
- !!! example "Command Usage"
+!!! example "Command Usage"
      z/message Message You Want Here
      
 if you would like Zira to send the message.
