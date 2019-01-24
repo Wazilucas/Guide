@@ -25,4 +25,4 @@ Add a toggled role to the message you've set. Allows the user to only have one t
     You've successfully added a toggle role with Zira.
     
 !!! note
-    You can only have 12 toggled roles setup. [Donors](https://zira.pw/premium) get unlimited toggled roles, we appreciate your support in advance!
+    You can only have 6 toggled roles setup. [Premium Users](https://zira.pw/premium) get unlimited toggled roles, we appreciate your support in advance!

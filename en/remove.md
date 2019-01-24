@@ -24,3 +24,6 @@ Setup a reaction role that will remove a role from a user. You can view more inf
 
 !!! success "Congratulations!"
     You've successfully added a reaction to remove a role from a user. If you are looking for the command to delete a previously setup reaction role, you can find it [here](delete.md)
+
+!!! note
+    You can only have 6 remove roles setup. [Premium Users](https://zira.pw/premium) get unlimited remove emojis, we appreciate your support in advance!

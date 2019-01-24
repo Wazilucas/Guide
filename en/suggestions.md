@@ -128,6 +128,15 @@ A toggle to allow users to be updated about their suggestion, when it updates an
 
 Set whether or not emoji's should be added on new suggestions.
 
+## Premium Only: Trello
+
+!!! example "Command Usage"
+    z/trello boardID or toggle
+
+###Description
+
+Set your Trello board ID or toggle this functionality.
+
 ## Premium Only: Emoji
 
 !!! example "Command Usage"

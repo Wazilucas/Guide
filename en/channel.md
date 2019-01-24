@@ -1,17 +1,14 @@
-# Setting Up A Channel
-
-!!! tip
-    First, Zira will need the `Read Messages` and `Read Message History` permissions for the channel you want to set. Next, you will specify the channel you would like to start with.
+# Config Command
 
 !!! example "Command Usage"
-    z/channel #channel or channel ID
+    z/config role role/disable
 
 ### Description
 
-Sets a channel for you to work in, to setup reaction roles. If you would like to switch to another channel to work in, just run the command again.
+Allows for server owners to specify which role or group that can run commands.
 
 !!! abstract "Channel Example"
-    ![Channel Example](http://i.imjake.me/files/uem8c.png)
+    ![Channel Example](http://i.imjake.me/files/0b18p.png)
 
 !!! success "Congratulations!"
-    You've successfully specified/ setup a channel with Zira. Click next below to specify the message you would like to setup / work with.
+    You've successfully specified a role that can use commands in your guild!
