@@ -3,12 +3,13 @@
 Before we start, Zira will need the `Add Reaction` permission for the reaction to appear on the message.
 
 ### Command Usage
-
-```z/add Emoji @Role```
+!!! example
+z/add Emoji @Role
 
 ***Or*** 
 
-```z/add Emoji Role Name```
+!!! example
+z/add Emoji Role Name
 
 ### Description
 
