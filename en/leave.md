@@ -13,7 +13,7 @@
 Setup the channel to send the leave messages to.
 
 !!! abstract "Example"
-    ![Example](http://i.imjake.me/files/a4omo.png)
+    ![Example](https://i.imjake.me/files/a4omo.png)
 
 To stop the leave messages, do:
 
@@ -21,7 +21,7 @@ To stop the leave messages, do:
     z/leave channel disable
 
 !!! abstract "Stop"
-    ![Stop](http://i.imjake.me/files/kckog.png)
+    ![Stop](https://i.imjake.me/files/kckog.png)
 
 ## Message
 
@@ -40,7 +40,7 @@ This will add a new message to the list of messages when someone leaves. If you 
 #### Example
 
 !!! abstract "Example"
-    ![Message](http://i.imjake.me/files/ceh2s.png)
+    ![Message](https://i.imjake.me/files/ceh2s.png)
 
 ## Remove Message
 
@@ -57,7 +57,7 @@ This will add a new message to the list of messages when someone leaves. If you 
 The first command will list all of your current leave messages, and then use the second command to delete specific leave messages.
 
 !!! abstract "Example"
-    ![Message](http://i.imjake.me/files/ceh2s.png)
+    ![Message](https://i.imjake.me/files/ceh2s.png)
 
 !!! success "Congratulations!"
     You've setup leave messages with Zira!

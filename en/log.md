@@ -11,7 +11,7 @@
 Log when users react or unreact on the messages you've setup with Zira.
 
 !!! abstract "Example"
-    ![Example](http://i.imjake.me/files/iaw47.png)
+    ![Example](https://i.imjake.me/files/iaw47.png)
 
 To stop logging do:
 
@@ -19,4 +19,4 @@ To stop logging do:
     z/log disable
 
 !!! abstract "Disable"
-    ![Disable](http://i.imjake.me/files/i35nz.png)
+    ![Disable](https://i.imjake.me/files/i35nz.png)

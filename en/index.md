@@ -8,13 +8,13 @@ Hey there, thanks for giving Zira a try, in this guide we will walk you through,
 Invite Zira with this [link](https://zira.pw/invite). Make sure you either give all the permissions on the invite link for Zira to work properly or give Zira your own custom bot role, that contains all the permissions listed in photo below.
 
 !!! abstract "Invite"
-    ![Invite](http://i.imjake.me/files/9d1ss.png)
+    ![Invite](https://i.imjake.me/files/9d1ss.png)
 
 !!! note
     Once Zira is invited. Make sure to move the `Zira` role (or whatever role you gave Zira) above all the other roles that you plan on assigning.
 
 !!! abstract "Move Zira"
-    ![Move Zira](http://i.imjake.me/files/y1mvm.png)
+    ![Move Zira](https://i.imjake.me/files/y1mvm.png)
 
 That's it for the initial preparation step for Zira. Click 'Next' below to move onto the next step.
 

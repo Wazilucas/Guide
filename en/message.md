@@ -23,10 +23,10 @@ if you would like Zira to send the message.
 Set or send the message(s) that users will be able to react on.
 
 !!! abstract "ID Example"
-    ![ID Example](http://i.imjake.me/files/gzckj.png)
+    ![ID Example](https://i.imjake.me/files/gzckj.png)
 
 !!! abstract "Message Example"
-    ![Message Example](http://i.imjake.me/files/6o10y.png)
+    ![Message Example](https://i.imjake.me/files/6o10y.png)
 
 !!! note
     The message will be sent in the channel you specified earlier in the "Setting Up A Message" step, you don't have to run this command in the channel you want the message to send.
