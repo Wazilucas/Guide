@@ -22,10 +22,10 @@ If you set the channel to be the "invalid" channel, when a suggestion is marked 
 
 
 !!! abstract "Example"
-    ![Example](http://i.imjake.me/files/402x0.png)
+    ![Example](https://i.imjake.me/files/402x0.png)
 
 !!! abstract "Premium Server Example"
-    ![Premium Server Example](http://i.imjake.me/files/lz4uk.png)
+    ![Premium Server Example](https://i.imjake.me/files/lz4uk.png)
 
 ## Submit
 
@@ -37,7 +37,7 @@ If you set the channel to be the "invalid" channel, when a suggestion is marked 
 Submit a suggestion to the server.
 
 !!! abstract "Example"
-    ![Example](http://i.imjake.me/files/1u99y.png)
+    ![Example](https://i.imjake.me/files/1u99y.png)
 
 !!! note
     No command is displayed as it is deleted upon send, and immediately resent by the bot, as shown in the photo.

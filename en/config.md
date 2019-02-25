@@ -8,7 +8,7 @@
 Allows for server owners to specify which role or group that can run commands.
 
 !!! abstract "Channel Example"
-    ![Channel Example](http://i.imjake.me/files/0b18p.png)
+    ![Channel Example](https://i.imjake.me/files/0b18p.png)
 
 !!! success "Congratulations!"
     You've successfully specified a role that can use commands in your guild!

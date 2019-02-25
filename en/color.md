@@ -11,7 +11,7 @@
 Zira will create 8 colors roles that you can set up with roles for users to pick from, or just use for whatever you want.
 
 !!! abstract "Color Example"
-    ![Color Example](http://i.imjake.me/files/px4y7.png)
+    ![Color Example](https://i.imjake.me/files/px4y7.png)
 
 !!! success "Congratulations!" 
     You've successfully created some color roles for your guild.

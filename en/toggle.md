@@ -19,7 +19,7 @@ Add a toggled role to the message you've set. Allows the user to only have one t
     ![Mention Example](http://i.imjake.me/files/qv9cq.png)
 
 !!! abstract "Name Example"
-    ![Name Example](http://i.imjake.me/files/xa36s.png)
+    ![Name Example](https://i.imjake.me/files/xa36s.png)
 
 !!! success "Congratulations!"
     You've successfully added a toggle role with Zira.

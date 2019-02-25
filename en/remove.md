@@ -17,10 +17,10 @@
 Setup a reaction role that will remove a role from a user. You can view more info on why you would need this at the top of this page.
 
 !!! abstract "Mention Example"
-    ![Mention Example](http://i.imjake.me/files/xhfq2.png)
+    ![Mention Example](https://i.imjake.me/files/xhfq2.png)
 
 !!! abstract "Name Example"
-    ![Name Example](http://i.imjake.me/files/0fzbq.png)
+    ![Name Example](https://i.imjake.me/files/0fzbq.png)
 
 !!! success "Congratulations!"
     You've successfully added a reaction to remove a role from a user. If you are looking for the command to delete a previously setup reaction role, you can find it [here](delete.md)

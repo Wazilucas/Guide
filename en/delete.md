@@ -17,10 +17,10 @@
 Remove a reaction role from a certain message.
 
 !!! abstract "Mention Example"
-    ![Mention Example](http://i.imjake.me/files/utaby.png)
+    ![Mention Example](https://i.imjake.me/files/utaby.png)
 
 !!! abstract "Name Example"
-    ![Name Example](http://i.imjake.me/files/g1t44.png)
+    ![Name Example](https://i.imjake.me/files/g1t44.png)
 
 !!! success "Congratulations!"
     You've successfully removed the reaction from the message.

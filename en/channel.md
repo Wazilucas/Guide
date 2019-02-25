@@ -11,7 +11,7 @@
 Sets a channel for you to work in, to setup reaction roles. If you would like to switch to another channel to work in, just run the command again.
 
 !!! abstract "Channel Example"
-    ![Channel Example](http://i.imjake.me/files/uem8c.png)
+    ![Channel Example](https://i.imjake.me/files/uem8c.png)
 
 !!! success "Congratulations!"
     You've successfully specified/ setup a channel with Zira. Click next below to specify the message you would like to setup / work with.
